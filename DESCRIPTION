@@ -1,11 +1,13 @@
 Package: omp
 Type: Package
-Title: OpenMP Utilities
+Title: 'OpenMP' Utilities
 Version: 0.1-0
-Description: TODO
+Description: Utilities for setting and reading the amount of compute resources
+    available to 'OpenMP'. The package wraps all of the 'OpenMP' functions that
+    would be useful to call from R.
 License: BSD 2-clause License + file LICENSE
 Depends:
-    R (>= 3.1.0)
+    R (>= 3.5.0)
 ByteCompile: yes
 URL: https://github.com/wrathematics/omp
 BugReports: https://github.com/wrathematics/omp/issues
