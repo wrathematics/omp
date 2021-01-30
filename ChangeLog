@@ -1,0 +1,11 @@
+Release 0.1-1:
+  * Added ChangeLog
+
+Release 0.1-0:
+  * New:
+    - omp_avail()
+    - get_max_threads()
+    - get_num_procs()
+    - get_wtick()
+    - get_wtime()
+    - set_num_threads()

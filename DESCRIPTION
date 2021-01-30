@@ -1,7 +1,7 @@
 Package: omp
 Type: Package
 Title: 'OpenMP' Utilities
-Version: 0.1-0
+Version: 0.1-1
 Description: Utilities for setting and reading the amount of compute resources
     available to 'OpenMP'. The package wraps all of the 'OpenMP' functions that
     would be useful to call from R.
