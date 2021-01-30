@@ -1,0 +1,14 @@
+Package: omp
+Type: Package
+Title: OpenMP Utilities
+Version: 0.1-0
+Description: TODO
+License: BSD 2-clause License + file LICENSE
+Depends:
+    R (>= 3.1.0)
+ByteCompile: yes
+URL: https://github.com/wrathematics/omp
+BugReports: https://github.com/wrathematics/omp/issues
+Authors@R: c(person("Drew", "Schmidt", role=c("aut", "cre"), email="wrathematics@gmail.com"))
+Maintainer: Drew Schmidt <wrathematics@gmail.com>
+RoxygenNote: 7.1.1

@@ -1,0 +1,6 @@
+*.status
+
+src/Makevars
+src/*.o
+src/*.so
+
